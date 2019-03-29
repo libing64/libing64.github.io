@@ -1,7 +1,7 @@
 # Site settings
 title: Bing Blog
 SEOTitle: 清风的博客 | Bing Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/shenzhenwan.jpg
 email: libing64@gmail.com
 description: "Learning a few whys is better than many hows."
 keyword: "Bing, Bing Blog, 清风的博客, libing64, sensor fusion"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/libing64/libing64.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-Bing-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/head_picture.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
